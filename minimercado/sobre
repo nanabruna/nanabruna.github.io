@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Minimercado Exemplo - Sobre</title>
+</head>
+<body>
+    <header>
+        <h1>Sobre o Minimercado Exemplo</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="produtos.html">Produtos</a></li>
+                <li><a href="servicos.html">Serviços</a></li>
+                <li><a href="contato.html">Contato</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Quem Somos</h2>
+        <p>O Minimercado Exemplo existe desde 2010, oferecendo produtos frescos e de qualidade para a comunidade local.</p>
+
+        <h2>Missão</h2>
+        <p>Proporcionar praticidade e confiança nas compras do dia a dia, garantindo a satisfação de nossos clientes.</p>
+
+        <h2>Visão</h2>
+        <p>Ser reconhecido como o minimercado mais confiável da região, com atendimento próximo e serviços eficientes.</p>
+    </main>
+
+    <footer>
+        <p>© 2025 Minimercado Exemplo</p>
+    </footer>
+</body>
+</html>
