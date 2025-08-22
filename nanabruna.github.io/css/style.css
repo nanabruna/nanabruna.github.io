@@ -1,0 +1,29 @@
+/* Paleta lilás + rosa */
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #fdf0ff; /* lilás clarinho */
+  color: #f0aeae;
+}
+
+.navbar {
+  background-color: #d4c4e7; /* lilás */
+  border-radius: 12px;
+  margin: 10px auto;
+  max-width: 95%;
+}
+
+.navbar a {
+  color: #fde4f4 !important;
+  font-weight: 600;
+}
+
+.carousel img {
+  max-height: 450px;
+  object-fit: cover;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.card {
+  border-radius: 16px;
+  transition: transform 0.3s
