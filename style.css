@@ -1,0 +1,89 @@
+/* ===== CONFIGURAÇÃO GLOBAL ===== */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F4F1FA;
+    margin: 0;
+    color: #222;
+    line-height: 1.6;
+}
+
+/* ===== HEADER ===== */
+
+header {
+    background-color: #6C4EB6;
+    color: white;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* ===== CONTAINER PADRÃO ===== */
+
+.container-custom {
+    padding: 30px;
+}
+
+/* ===== CARDS PRODUTOS ===== */
+
+.card-custom {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.card-custom img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+/* ===== BOTÕES ===== */
+
+.btn-custom {
+    background-color: #6C4EB6;
+    color: white;
+    border: none;
+}
+
+.btn-custom:hover {
+    background-color: #5938A8;
+}
+
+/* ===== FORMULÁRIO ===== */
+
+form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+label {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* ===== FOOTER ===== */
+
+footer {
+    background-color: #6C4EB6;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
